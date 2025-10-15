@@ -1,0 +1,3 @@
+1. The path to "program.mem" in "InstrMem.v" may need to be modified.
+2. In "ALUControl.v" and "Control.v", I'm not sure whether I can set "alu_op" of I-type as 11.
+3. some small components like "shift_left_1", pc+4 and "and" gate 还没做 
